@@ -1,0 +1,13 @@
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Leon\Source\Repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Leon\Source\Repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
