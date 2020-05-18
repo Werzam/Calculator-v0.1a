@@ -2,13 +2,13 @@
 
 Functional notes
 
-Graphics implemented,
-Cursor movement implemented,
-Sign input implemented
-
+Graphics added,
+Cursor movement added,
+Sign input added,
+Digits processing added,
+Math actions added,
 ////////////////////////
 
 Need to add
 
-Digits processing,
-Math actions
+more than 2 math actions 
