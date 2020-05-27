@@ -8,7 +8,7 @@ namespace Calculator
     {
         public int xcord, ycord;
         public char symb;
-        public void CalcButton()
+        public void DrawButton()
         {
             
             Console.SetCursorPosition(xcord, ycord);

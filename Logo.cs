@@ -6,7 +6,7 @@ namespace Calculator
 {
     class Logo
     {
-        public void Pic()
+        public void DrawLogo()
         {
 
             Console.SetCursorPosition(60, 7);
